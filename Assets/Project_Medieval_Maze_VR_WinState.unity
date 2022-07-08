@@ -2025,10 +2025,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.75
       objectReference: {fileID: 0}
+    - target: {fileID: 5305996649882385062, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
         type: 3}
       propertyPath: m_Name
       value: TeleportBox3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 595e44398842837479e8f75fd4a786d8, type: 3}
@@ -2717,10 +2727,20 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 2087691608163461390, guid: 3f5d4b5e9606d24498a2806d5cf4e696,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2087691608475237034, guid: 3f5d4b5e9606d24498a2806d5cf4e696,
         type: 3}
       propertyPath: m_Layer
       value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 2087691608475237034, guid: 3f5d4b5e9606d24498a2806d5cf4e696,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2087801390740088814, guid: 3f5d4b5e9606d24498a2806d5cf4e696,
         type: 3}
@@ -3984,6 +4004,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4043722508957300697, guid: 7aeae1f6fc97430409ca3234cac25da5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4044113768377974179, guid: 7aeae1f6fc97430409ca3234cac25da5,
         type: 3}
@@ -6084,10 +6109,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.75
       objectReference: {fileID: 0}
+    - target: {fileID: 5305996649882385062, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
         type: 3}
       propertyPath: m_Name
       value: TeleportBox2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 595e44398842837479e8f75fd4a786d8, type: 3}
@@ -6296,6 +6331,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 2087801391650988916, guid: 3f5d4b5e9606d24498a2806d5cf4e696,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2088345810104179854, guid: 3f5d4b5e9606d24498a2806d5cf4e696,
         type: 3}
@@ -7096,10 +7136,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.75
       objectReference: {fileID: 0}
+    - target: {fileID: 5305996649882385062, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
         type: 3}
       propertyPath: m_Name
       value: TeleportBox1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 595e44398842837479e8f75fd4a786d8, type: 3}
@@ -10316,7 +10366,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1030302842}
   m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 3290.0002}
+  m_LocalPosition: {x: 0, y: 0, z: 3260.0002}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1414629952}
@@ -10502,10 +10552,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.75
       objectReference: {fileID: 0}
+    - target: {fileID: 5305996649882385062, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
         type: 3}
       propertyPath: m_Name
       value: TeleportBox7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 595e44398842837479e8f75fd4a786d8, type: 3}
@@ -12683,10 +12743,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.75
       objectReference: {fileID: 0}
+    - target: {fileID: 5305996649882385062, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
         type: 3}
       propertyPath: m_Name
       value: TeleportBox8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 595e44398842837479e8f75fd4a786d8, type: 3}
@@ -14199,10 +14269,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.75
       objectReference: {fileID: 0}
+    - target: {fileID: 5305996649882385062, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
         type: 3}
       propertyPath: m_Name
       value: TeleportBox6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 595e44398842837479e8f75fd4a786d8, type: 3}
@@ -15221,6 +15301,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 4043722508957300697, guid: 7aeae1f6fc97430409ca3234cac25da5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4044113768377974179, guid: 7aeae1f6fc97430409ca3234cac25da5,
         type: 3}
       propertyPath: m_Layer
@@ -15686,10 +15771,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.75
       objectReference: {fileID: 0}
+    - target: {fileID: 5305996649882385062, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
         type: 3}
       propertyPath: m_Name
       value: TeleportBox5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 595e44398842837479e8f75fd4a786d8, type: 3}
@@ -15898,10 +15993,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.75
       objectReference: {fileID: 0}
+    - target: {fileID: 5305996649882385062, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
         type: 3}
       propertyPath: m_Name
       value: TeleportBox4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 595e44398842837479e8f75fd4a786d8, type: 3}
@@ -16987,6 +17092,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 2087691608475237034, guid: 3f5d4b5e9606d24498a2806d5cf4e696,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2087801390740088814, guid: 3f5d4b5e9606d24498a2806d5cf4e696,
         type: 3}
@@ -18391,10 +18501,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.75
       objectReference: {fileID: 0}
+    - target: {fileID: 5305996649882385062, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
         type: 3}
       propertyPath: m_Name
       value: TeleportBox9
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776584750983925149, guid: 595e44398842837479e8f75fd4a786d8,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 595e44398842837479e8f75fd4a786d8, type: 3}
@@ -19198,7 +19318,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2037139535}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  m_Mesh: {fileID: 0}
 --- !u!4 &2037139539
 Transform:
   m_ObjectHideFlags: 0
