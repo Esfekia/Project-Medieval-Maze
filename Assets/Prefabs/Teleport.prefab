@@ -118,7 +118,7 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_CustomReticle: {fileID: 3111683196198603836, guid: 761641eb7cb4b66489033f59463198b6,
+  m_CustomReticle: {fileID: 5624028599260260319, guid: e6b90cba092d3db4ea0c0b46cbb7079b,
     type: 3}
   m_TeleportationProvider: {fileID: 0}
   m_MatchOrientation: 0
