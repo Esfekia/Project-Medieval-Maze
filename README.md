@@ -1,11 +1,11 @@
 # Project Medieval Maze
  Assignment 12.1 - NYU Professional Certificate Course in XR Development
 
-![alt text](https://github.com/Esfekia/Project-Medieval-Maze/Snip1.png?raw=true)
+![alt text]([https://github.com/Esfekia/Project-Medieval-Maze/Snip1.png?raw=true](https://github.com/Esfekia/Project-Medieval-Maze/blob/main/Snip1.png))
 
-![alt text](https://github.com/Esfekia/Project-Medieval-Maze/Snip2.png?raw=true)
+![alt text]([https://github.com/Esfekia/Project-Medieval-Maze/Snip2.png?raw=true](https://github.com/Esfekia/Project-Medieval-Maze/blob/main/Snip1.png))
 
-![alt text](https://github.com/Esfekia/Project-Medieval-Maze/Snip3.png?raw=true)
+![alt text]([https://github.com/Esfekia/Project-Medieval-Maze/Snip3.png?raw=true](https://github.com/Esfekia/Project-Medieval-Maze/blob/main/Snip1.png))
 
 Update 1:
 https://youtu.be/tN-Pk4N3PRE
