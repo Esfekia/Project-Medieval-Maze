@@ -1,6 +1,19 @@
 # Project Medieval Maze
  Assignment 12.1 - NYU Professional Certificate Course in XR Development
 
+Work Environment:
+
+![Screenshot 2](https://github.com/Esfekia/Project-Medieval-Maze/blob/main/Snip2.png)
+
+![Screenshot 3](https://github.com/Esfekia/Project-Medieval-Maze/blob/main/Snip3.png)
+
+<details>
+  <summary>Project Overview Screenshot - Spoiler warning - Dont open this before completing the Maze!</summary>
+  
+  ![Screenshot 1](https://github.com/Esfekia/Project-Medieval-Maze/blob/main/Snip1.png)
+   
+</details>
+
 Update 1:
 https://youtu.be/tN-Pk4N3PRE
 
