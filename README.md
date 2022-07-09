@@ -3,17 +3,16 @@
 
 Work Environment:
 
+![Screenshot 2](https://github.com/Esfekia/Project-Medieval-Maze/blob/main/Snip2.png)
+
+![Screenshot 3](https://github.com/Esfekia/Project-Medieval-Maze/blob/main/Snip3.png)
+
 <details>
-  <summary>Spoiler warning - Dont open this before completing the Maze!</summary>
+  <summary>Project Overview Screenshot - Spoiler warning - Dont open this before completing the Maze!</summary>
   
   ![Screenshot 1](https://github.com/Esfekia/Project-Medieval-Maze/blob/main/Snip1.png)
    
 </details>
-
-
-![Screenshot 2](https://github.com/Esfekia/Project-Medieval-Maze/blob/main/Snip2.png)
-
-![Screenshot 3](https://github.com/Esfekia/Project-Medieval-Maze/blob/main/Snip3.png)
 
 Update 1:
 https://youtu.be/tN-Pk4N3PRE
